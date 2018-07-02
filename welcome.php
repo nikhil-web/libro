@@ -21,7 +21,7 @@
 <body>
 
     <?php
-
+  //echo("Session blongs to:".$_SESSION['user_name']."<br>");
    //echo("Session blongs to:".$_SESSION['user_name']."<br>");
   // echo("Session email is:".$_SESSION['user_email']."<br>");
   // echo("User unique id is:".$_SESSION['user_id']."<br>");
